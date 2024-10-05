@@ -9,11 +9,11 @@ SmartScore,Ticker,Price,Market Capitalization,Sector,Industry
 N/A,ZKH,12.22,1962703459,Retail Trade,Department Stores
 4,ZIP,10.85,1077353139,Technology Services,Internet Software/Services
 7,ZION,44.13,6513544658,Finance,Major Banks
-9,ZIM,14.78,1778341516,Transportation,Marine Shipping
+10,ZIM,14.78,1778341516,Transportation,Marine Shipping
 7,ZI,12.14,4609588658,Technology Services,Packaged Software
 3,ZGN,12.71,5151256534,Consumer Non-Durables,Apparel/Footwear
 8,ZG,41.21,9812345738,Technology Services,Information Technology Services
-9,ZETA,15.57,3406592565,Technology Services,Packaged Software
+8,ZETA,15.57,3406592565,Technology Services,Packaged Software
 7,ZD,54.48,2509972951,Technology Services,Internet Software/Services
 6,ZBRA,319.95,16451638642,Electronic Technology,Computer Processing Hardware
 9,ZBH,120.85,24862276047,Health Technology,Medical Specialties
@@ -436,7 +436,7 @@ N/A,TDCX,7.11,1042398677,Technology Services,Information Technology Services
 2,SUM,40.4,7088352135,Non-Energy Minerals,Construction Materials
 6,SUI,116.72,14547300537,Finance,Real Estate Investment Trusts
 10,SU,39.04,50245378989,Energy Minerals,Integrated Oil
-10,STZ,258.36,47273154120,Consumer Non-Durables,Beverages: Alcoholic
+5,STZ,258.36,47273154120,Consumer Non-Durables,Beverages: Alcoholic
 8,STX,90.05,18909468726,Electronic Technology,Computer Peripherals
 9,STWD,20.08,6302585464,Finance,Real Estate Investment Trusts
 5,STVN,26.91,8175124391,Health Technology,Medical Specialties
@@ -519,7 +519,7 @@ N/A,TDCX,7.11,1042398677,Technology Services,Information Technology Services
 6,SNA,275.91,14545575775,Consumer Durables,Tools & Hardware
 10,SN,67.03,9372055142,Consumer Durables,Electronics/Appliances
 8,SMTC,40.85,2638557039,Electronic Technology,Semiconductors
-4,SMR,5.85,1411238010,Producer Manufacturing,Electrical Products
+8,SMR,5.85,1411238010,Producer Manufacturing,Electrical Products
 7,SMPL,37.3,3729588426,Consumer Non-Durables,Food: Major Diversified
 10,SMMT,4.96,3481818913,Health Technology,Biotechnology
 9,SMG,66.54,3772306635,Process Industries,Chemicals: Agricultural
@@ -1116,7 +1116,7 @@ N/A,NYAX,28.84,1035375422,Technology Services,Packaged Software
 2,MUR,44.6,6804901797,Energy Minerals,Oil & Gas Production
 6,MUFG,10.11,1.15E+11,Finance,Major Banks
 ,MUC,10.96,1068910000,Miscellaneous,Investment Trusts/Mutual Funds
-7,MU,119.32,1.32E+11,Electronic Technology,Semiconductors
+9,MU,119.32,1.32E+11,Electronic Technology,Semiconductors
 8,MTZ,105.27,8364588389,Industrial Services,Engineering & Construction
 5,MTX,79.31,2557601595,Process Industries,Chemicals: Specialty
 2,MTTR,4.43,1393283886,Technology Services,Packaged Software
@@ -1493,11 +1493,11 @@ N/A,KVYO,21.53,6284070000,Technology Services,Packaged Software
 8,IOT,38.41,21145575837,Technology Services,Packaged Software
 4,IOSP,125.09,3110736601,Process Industries,Chemicals: Major Diversified
 3,IONS,40.16,5857169543,Health Technology,Pharmaceuticals: Major
-7,IONQ,8.78,1854658254,Electronic Technology,Computer Processing Hardware
+4,IONQ,8.78,1854658254,Electronic Technology,Computer Processing Hardware
 2,INVH,34.7,21254987333,Finance,Real Estate Investment Trusts
 10,INTU,632.43,1.77E+11,Technology Services,Packaged Software
 7,INTR,5.46,2195960404,Finance,Major Banks
-6,INTC,30,1.28E+11,Electronic Technology,Semiconductors
+8,INTC,30,1.28E+11,Electronic Technology,Semiconductors
 9,INTA,36.15,2653261510,Technology Services,Packaged Software
 6,INSW,61.29,3006168585,Transportation,Marine Shipping
 3,INST,20.11,2934609282,Technology Services,Packaged Software
@@ -1664,7 +1664,7 @@ N/A,IBTA,96.74,2936920000,Technology Services,Packaged Software
 4,GTES,16.57,4331071152,Producer Manufacturing,Industrial Machinery
 7,GT,12.67,3600124766,Consumer Durables,Automotive Aftermarket
 8,GSM,5.36,1004643842,Non-Energy Minerals,Other Metals/Minerals
-10,GSK,44.14,90368534138,Health Technology,Pharmaceuticals: Major
+8,GSK,44.14,90368534138,Health Technology,Pharmaceuticals: Major
 6,GSHD,59,2241772941,Finance,Insurance Brokers/Services
 6,GSBD,15.61,1712147046,Finance,Investment Managers
 6,GSAT,1.28,2431999946,Communications,Wireless Telecommunications
@@ -2072,9 +2072,9 @@ N/A,ECO,32.63,1033719253,Transportation,Marine Shipping
 9,DKS,196.15,16044388609,Retail Trade,Specialty Stores
 7,DKNG,42.81,20363729187,Consumer Services,Movies/Entertainment
 5,DKL,39.09,1845095903,Industrial Services,Oil & Gas Pipelines
-5,DK,27.84,1782296326,Energy Minerals,Oil Refining/Marketing
-6,DJT,49.26,6733870183,Commercial Services,Advertising/Marketing Services
-6,DIS,105.44,1.93E+11,Consumer Services,Movies/Entertainment
+3,DK,27.84,1782296326,Energy Minerals,Oil Refining/Marketing
+2,DJT,49.26,6733870183,Commercial Services,Advertising/Marketing Services
+7,DIS,105.44,1.93E+11,Consumer Services,Movies/Entertainment
 1,DIOD,74.56,3443077749,Electronic Technology,Semiconductors
 7,DINO,56.95,11308469956,Energy Minerals,Oil Refining/Marketing
 6,DHT,12.06,1941654547,Transportation,Marine Shipping
@@ -2129,7 +2129,7 @@ N/A,ECO,32.63,1033719253,Transportation,Marine Shipping
 1,CWAN,18.05,4435187657,Technology Services,Packaged Software
 10,CW,274.24,10503059790,Electronic Technology,Aerospace & Defense
 9,CVX,162.54,3.00E+11,Energy Minerals,Integrated Oil
-9,CVS,54.91,68932533812,Retail Trade,Drugstore Chains
+7,CVS,54.91,68932533812,Retail Trade,Drugstore Chains
 1,CVNA,114.42,23101251644,Retail Trade,Specialty Stores
 6,CVLT,109.18,4766975804,Technology Services,Packaged Software
 4,CVI,29.39,2954594317,Energy Minerals,Oil Refining/Marketing
@@ -2422,7 +2422,7 @@ N/A,BWLP,15.92,2092562454,Transportation,Marine Shipping
 7,BR,190.46,22430897202,Technology Services,Information Technology Services
 1,BPOP,90.3,6524537600,Finance,Regional Banks
 8,BPMC,108.78,6811466458,Health Technology,Biotechnology
-10,BP,37.53,1.04E+11,Energy Minerals,Integrated Oil
+9,BP,37.53,1.04E+11,Energy Minerals,Integrated Oil
 5,BOX,26.31,3797928875,Technology Services,Information Technology Services
 8,BOWL,11.3,1691855323,Consumer Services,Movies/Entertainment
 4,BORR,5.7,1500074314,Industrial Services,Contract Drilling
@@ -2553,7 +2553,7 @@ N/A,BLTE,42.8,1273476399,Health Technology,Pharmaceuticals: Major
 10,BAC/PB,24.85,2.95E+11,Finance,Major Banks
 10,BAC,37.71,2.95E+11,Finance,Major Banks
 10,BABA,78.46,1.87E+11,Retail Trade,Internet Retail
-8,BA,180.35,1.11E+11,Electronic Technology,Aerospace & Defense
+7,BA,180.35,1.11E+11,Electronic Technology,Aerospace & Defense
 9,B,37.45,1898792640,Producer Manufacturing,Industrial Machinery
 8,AZZ,75.42,2240111814,Process Industries,Industrial Specialties
 4,AZTA,54.07,3015220925,Health Services,Medical/Nursing Services
@@ -2831,3 +2831,4 @@ N/A,ALAB,69.26,10767900000,Electronic Technology,Semiconductors
 8,AAL,14.42,9460823518,Transportation,Airlines
 7,AA,36.64,6579067019,Non-Energy Minerals,Aluminum
 7,A,142.8,41848293070,Health Technology,Medical Specialties
+7,EVGO,5.15,1.19E+09,Retail Trade,Specialty Stores
