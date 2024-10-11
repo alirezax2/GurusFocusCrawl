@@ -21,7 +21,7 @@ N/A,ZKH,12.22,1962703459,Retail Trade,Department Stores
 3,YY,33.17,2018980161,Technology Services,Data Processing Services
 10,YUMC,37.28,14940288305,Consumer Services,Restaurants
 4,YUM,136.96,38531817865,Consumer Services,Restaurants
-8,YPF,24.46,11771985577,Energy Minerals,Integrated Oil
+7,YPF,24.46,11771985577,Energy Minerals,Integrated Oil
 7,YOU,17.18,2505874032,Technology Services,Packaged Software
 9,YMM,8.55,8934397762,Technology Services,Packaged Software
 7,YETI,34.81,2966571833,Producer Manufacturing,Miscellaneous Manufacturing
@@ -33,7 +33,7 @@ N/A,ZKH,12.22,1962703459,Retail Trade,Department Stores
 8,XPO,111.96,13024364983,Transportation,Trucking
 5,XPEV,7.89,7761003526,Consumer Durables,Motor Vehicles
 7,XP,22.46,12309949156,Finance,Investment Banks/Brokers
-9,XOM,116.15,5.21E+11,Energy Minerals,Integrated Oil
+10,XOM,116.15,5.21E+11,Energy Minerals,Integrated Oil
 5,XNCR,23.66,1458579638,Health Technology,Biotechnology
 7,XHR,14.65,1493767821,Finance,Real Estate Investment Trusts
 4,XENE,42.93,3239647792,Health Technology,Pharmaceuticals: Major
@@ -103,7 +103,7 @@ N/A,WS,31.69,1596650000,Non-Energy Minerals,Steel
 7,WFC/PD,18.73,2.13E+11,Finance,Major Banks
 7,WFC/PC,19.3,2.13E+11,Finance,Major Banks
 7,WFC/PA,20.45,2.13E+11,Finance,Major Banks
-7,WFC,61.23,2.13E+11,Finance,Major Banks
+5,WFC,61.23,2.13E+11,Finance,Major Banks
 5,WF,32.2,7849538846,Finance,Major Banks
 9,WEX,210,8799112473,Commercial Services,Miscellaneous Commercial Services
 10,WES,35.5,13507169312,Industrial Services,Oil & Gas Pipelines
@@ -685,7 +685,7 @@ N/A,SDHC,29,1487180000,Consumer Durables,Homebuilding
 6,RLI,147.07,6722553069,Finance,Multi-Line Insurance
 10,RL,165.16,10557945229,Consumer Non-Durables,Apparel/Footwear
 6,RKT,13.88,27598116764,Finance,Finance/Rental/Leasing
-6,RKLB,4.1,2020396822,Electronic Technology,Aerospace & Defense
+8,RKLB,4.1,2020396822,Electronic Technology,Aerospace & Defense
 7,RJF/PB,25.2399,26212061754,Finance,Investment Managers
 7,RJF,125.4,26212061754,Finance,Investment Managers
 2,RIVN,10.27,10223737817,Consumer Durables,Motor Vehicles
@@ -1097,7 +1097,7 @@ N/A,NYAX,28.84,1035375422,Technology Services,Packaged Software
 8,NDSN,271,15499098526,Producer Manufacturing,Industrial Machinery
 8,NDAQ,59.91,34540071202,Finance,Investment Banks/Brokers
 5,NCNO,30.89,3531825963,Technology Services,Packaged Software
-8,NCLH,16.09,6903025475,Consumer Services,Hotels/Resorts/Cruise lines
+9,NCLH,16.09,6903025475,Consumer Services,Hotels/Resorts/Cruise lines
 6,NBTB,37.26,1756888574,Finance,Major Banks
 9,NBIX,139.02,13990588133,Health Technology,Pharmaceuticals: Major
 5,NBHC,35,1323889446,Finance,Regional Banks
@@ -1244,7 +1244,7 @@ N/A,MNR,20.13,1912350000,Energy Minerals,Integrated Oil
 9,MCO,395.94,72298646862,Commercial Services,Financial Publishing/Services
 6,MCK,543.61,71434852850,Distribution Services,Medical Distributors
 8,MCHP,91.99,49710285396,Electronic Technology,Semiconductors
-4,MCD,268.49,1.94E+11,Consumer Services,Restaurants
+9,MCD,268.49,1.94E+11,Consumer Services,Restaurants
 4,MC,52.93,4057458992,Finance,Investment Banks/Brokers
 9,MBLY,28.67,23114654505,Technology Services,Packaged Software
 ,MBINO,24.6,2038304695,Finance,Regional Banks
@@ -1274,7 +1274,7 @@ N/A,MNR,20.13,1912350000,Energy Minerals,Integrated Oil
 4,LZ,9.28,1752770994,Commercial Services,Miscellaneous Commercial Services
 6,LYV,95.79,22169883601,Consumer Services,Movies/Entertainment
 7,LYG,2.67,42471183076,Finance,Major Banks
-8,LYFT,17.78,7167453524,Technology Services,Packaged Software
+9,LYFT,17.78,7167453524,Technology Services,Packaged Software
 7,LYB,102.18,33272081954,Process Industries,Chemicals: Specialty
 2,LXP/PC,45.2442,2549193871,Finance,Real Estate Investment Trusts
 2,LXP,8.64,2549193871,Finance,Real Estate Investment Trusts
@@ -2074,7 +2074,7 @@ N/A,ECO,32.63,1033719253,Transportation,Marine Shipping
 5,DKL,39.09,1845095903,Industrial Services,Oil & Gas Pipelines
 3,DK,27.84,1782296326,Energy Minerals,Oil Refining/Marketing
 2,DJT,49.26,6733870183,Commercial Services,Advertising/Marketing Services
-7,DIS,105.44,1.93E+11,Consumer Services,Movies/Entertainment
+6,DIS,105.44,1.93E+11,Consumer Services,Movies/Entertainment
 1,DIOD,74.56,3443077749,Electronic Technology,Semiconductors
 7,DINO,56.95,11308469956,Energy Minerals,Oil Refining/Marketing
 6,DHT,12.06,1941654547,Transportation,Marine Shipping
@@ -2200,7 +2200,7 @@ N/A,CRH,79.78,55100725210,Non-Energy Minerals,Construction Materials
 8,CP,81.67,76173983438,Transportation,Railroads
 8,COUR,9.3,1451840916,Technology Services,Internet Software/Services
 7,COTY,10.89,9748389457,Consumer Non-Durables,Household/Personal Care
-7,COST,763.41,3.39E+11,Retail Trade,Food Retail
+6,COST,763.41,3.39E+11,Retail Trade,Food Retail
 10,CORT,25.4,2644446880,Health Technology,Pharmaceuticals: Major
 10,COR,224.11,44699142456,Distribution Services,Medical Distributors
 10,COP,123.06,1.44E+11,Energy Minerals,Oil & Gas Production
@@ -2321,7 +2321,7 @@ N/A,CGON,32.43,2161010000,Health Technology,Biotechnology
 7,CENX,16.86,1562853444,Non-Energy Minerals,Aluminum
 ,CENTA,35.94,2375529518,Consumer Non-Durables,Consumer Sundries
 6,CENT,41.73,2375529518,Consumer Non-Durables,Consumer Sundries
-9,CELH,77.13,17976699617,Consumer Non-Durables,Beverages: Non-Alcoholic
+4,CELH,77.13,17976699617,Consumer Non-Durables,Beverages: Non-Alcoholic
 6,CEIX,85.71,2537733351,Energy Minerals,Coal
 10,CEG,208,65545155762,Utilities,Electric Utilities
 ,CEF,21.42,4398280000,Miscellaneous,Investment Trusts/Mutual Funds
@@ -2551,7 +2551,7 @@ N/A,BLTE,42.8,1273476399,Health Technology,Pharmaceuticals: Major
 10,BAC/PK,24.56,2.95E+11,Finance,Major Banks
 10,BAC/PE,23.57,2.95E+11,Finance,Major Banks
 10,BAC/PB,24.85,2.95E+11,Finance,Major Banks
-10,BAC,37.71,2.95E+11,Finance,Major Banks
+5,BAC,37.71,2.95E+11,Finance,Major Banks
 10,BABA,78.46,1.87E+11,Retail Trade,Internet Retail
 7,BA,180.35,1.11E+11,Electronic Technology,Aerospace & Defense
 9,B,37.45,1898792640,Producer Manufacturing,Industrial Machinery
@@ -2831,4 +2831,4 @@ N/A,ALAB,69.26,10767900000,Electronic Technology,Semiconductors
 8,AAL,14.42,9460823518,Transportation,Airlines
 7,AA,36.64,6579067019,Non-Energy Minerals,Aluminum
 7,A,142.8,41848293070,Health Technology,Medical Specialties
-7,EVGO,5.15,1.19E+09,Retail Trade,Specialty Stores
+9,EVGO,5.15,1.19E+09,Retail Trade,Specialty Stores
