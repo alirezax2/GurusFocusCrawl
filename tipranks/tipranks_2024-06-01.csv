@@ -26,10 +26,10 @@ SmartScore,Ticker,Price,Market Capitalization,Sector,Industry
 10,UNH,503.21,4.63E+11,Health Services,Managed Health Care
 8,MA,454.77,4.23E+11,Commercial Services,Miscellaneous Commercial Services
 10,PG,165.07,3.90E+11,Consumer Non-Durables,Household/Personal Care
-10,JNJ,148.95,3.58E+11,Health Technology,Pharmaceuticals: Major
+8,JNJ,148.95,3.58E+11,Health Technology,Pharmaceuticals: Major
 9,ASML,911.47,3.57E+11,Electronic Technology,Semiconductors
-6,COST,763.41,3.39E+11,Retail Trade,Food Retail
-8,HD,338.83,3.36E+11,Retail Trade,Home Improvement Chains
+8,COST,763.41,3.39E+11,Retail Trade,Food Retail
+10,HD,338.83,3.36E+11,Retail Trade,Home Improvement Chains
 9,MRK,129.55,3.28E+11,Health Technology,Pharmaceuticals: Major
 7,ORCL,117.39,3.23E+11,Technology Services,Packaged Software
 9,TM,231.78,3.12E+11,Consumer Durables,Motor Vehicles
@@ -329,7 +329,7 @@ N/A,CRH,79.78,55100725210,Non-Energy Minerals,Construction Materials
 8,AFL,84.83,48202308260,Finance,Multi-Line Insurance
 6,SPG/PJ,59.1,48192761372,Finance,Real Estate Investment Trusts
 6,SPG,147.88,48192761372,Finance,Real Estate Investment Trusts
-8,SMCI,822.64,48170941558,Electronic Technology,Computer Processing Hardware
+5,SMCI,822.64,48170941558,Electronic Technology,Computer Processing Hardware
 9,PLTR,21.56,48014248929,Technology Services,Packaged Software
 9,WMB,39.32,47921408022,Industrial Services,Oil & Gas Pipelines
 6,NEM,41.54,47901447406,Non-Energy Minerals,Precious Metals
@@ -713,7 +713,7 @@ N/A,FERG,219.53,44462482309,Distribution Services,Wholesale Distributors
 4,EBR.B,8.25,18103576936,Utilities,Electric Utilities
 3,EBR,7.83,18103576936,Utilities,Electric Utilities
 3,DPZ,516.67,18023212143,Consumer Services,Restaurants
-4,CELH,77.13,17976699617,Consumer Non-Durables,Beverages: Non-Alcoholic
+6,CELH,77.13,17976699617,Consumer Non-Durables,Beverages: Non-Alcoholic
 3,CUK,13.04,17967110085,Consumer Services,Hotels/Resorts/Cruise lines
 5,CCL,14.3,17964952838,Consumer Services,Hotels/Resorts/Cruise lines
 5,EME,379.43,17831783956,Industrial Services,Engineering & Construction
@@ -1218,7 +1218,7 @@ N/A,LSXMK,24.91,8135320000,Consumer Services,Movies/Entertainment
 8,WAL/PA,17.84,6934760462,Finance,Regional Banks
 8,WAL,62.98,6934760462,Finance,Regional Banks
 7,UI,114.5,6922806608,Electronic Technology,Telecommunications Equipment
-9,NCLH,16.09,6903025475,Consumer Services,Hotels/Resorts/Cruise lines
+10,NCLH,16.09,6903025475,Consumer Services,Hotels/Resorts/Cruise lines
 5,DDS,423.47,6872951145,Retail Trade,Department Stores
 4,CFR/PB,18.75,6871994244,Finance,Regional Banks
 4,CFR,106.95,6871994244,Finance,Regional Banks
@@ -2832,3 +2832,4 @@ N/A,ECO,32.63,1033719253,Transportation,Marine Shipping
 6,CTOS,4.17,1002543775,Finance,Finance/Rental/Leasing
 8,BBDC,9.45,1002333791,Finance,Investment Managers
 5,ATRC,20.69,1001030314,Health Technology,Medical Specialties
+10,WULF,4.21,1.61E+09,Technology Services,Data Processing Services
