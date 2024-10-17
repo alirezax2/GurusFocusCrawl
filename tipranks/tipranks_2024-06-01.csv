@@ -60,7 +60,7 @@ SmartScore,Ticker,Price,Market Capitalization,Sector,Industry
 9,SHEL,72.63,2.30E+11,Energy Minerals,Integrated Oil
 7,SAP,190.31,2.21E+11,Technology Services,Packaged Software
 6,TMO,573.64,2.19E+11,Health Technology,Medical Specialties
-8,ADBE,488.1,2.19E+11,Technology Services,Packaged Software
+9,ADBE,488.1,2.19E+11,Technology Services,Packaged Software
 7,WFC/PZ,20.58,2.13E+11,Finance,Major Banks
 7,WFC/PY,23.7,2.13E+11,Finance,Major Banks
 7,WFC/PL,1164.155,2.13E+11,Finance,Major Banks
@@ -787,7 +787,7 @@ N/A,FERG,219.53,44462482309,Distribution Services,Wholesale Distributors
 10,YUMC,37.28,14940288305,Consumer Services,Restaurants
 8,BG,105.36,14918460669,Process Industries,Agricultural Commodities/Milling
 6,CG,41.48,14902110104,Finance,Investment Managers
-7,WBA,17.23,14864551124,Distribution Services,Medical Distributors
+5,WBA,17.23,14864551124,Distribution Services,Medical Distributors
 6,TOST,26.82,14840480315,Technology Services,Packaged Software
 3,EXPE,111.54,14775718231,Consumer Services,Other Consumer Services
 6,AMCR,10.22,14771408521,Process Industries,Containers/Packaging
@@ -1186,7 +1186,7 @@ N/A,LSXMK,24.91,8135320000,Consumer Services,Movies/Entertainment
 8,NOV,18.92,7483540199,Industrial Services,Oilfield Services/Equipment
 7,WSC,39.34,7481704952,Finance,Finance/Rental/Leasing
 8,MNSO,24.52,7480171465,Retail Trade,Specialty Stores
-10,SOFI,7.05,7448264099,Finance,Finance/Rental/Leasing
+7,SOFI,7.05,7448264099,Finance,Finance/Rental/Leasing
 6,MTN,195.68,7429608274,Consumer Services,Hotels/Resorts/Cruise lines
 4,MIDD,138.58,7428361549,Producer Manufacturing,Industrial Machinery
 7,VOYA/PB,24.06,7404559289,Finance,Life/Health Insurance
@@ -1851,7 +1851,7 @@ N/A,LLYVA,38.18,3500860000,Consumer Services,Media Conglomerates
 8,USM,35.99,3069334661,Communications,Wireless Telecommunications
 9,HL/PB,52.21,3069327992,Non-Energy Minerals,Precious Metals
 9,HL,4.91,3069327992,Non-Energy Minerals,Precious Metals
-5,WOLF,24.37,3067082075,Electronic Technology,Semiconductors
+6,WOLF,24.37,3067082075,Electronic Technology,Semiconductors
 N/A,IMCR,61.32,3049176782,Health Technology,Biotechnology
 6,SKT,27.88,3048751250,Finance,Real Estate Investment Trusts
 8,BTE,3.71,3048506988,Energy Minerals,Integrated Oil
@@ -2007,7 +2007,7 @@ N/A,OLK,23.47,2918323436,Health Technology,Biotechnology
 4,MYRG,155.65,2609542116,Industrial Services,Engineering & Construction
 4,RUM,6.73,2608440348,Technology Services,Internet Software/Services
 9,C/PN,29.03,2608055200,Finance,Finance/Rental/Leasing
-10,HIMS,12.15,2607983421,Health Services,Medical/Nursing Services
+6,HIMS,12.15,2607983421,Health Services,Medical/Nursing Services
 3,USAC,25.18,2593588251,Industrial Services,Oilfield Services/Equipment
 ,AKO.B,18.74,2593311426,Consumer Non-Durables,Beverages: Non-Alcoholic
 4,AKO.A,13.8942,2593311426,Consumer Non-Durables,Beverages: Non-Alcoholic
@@ -2833,3 +2833,6 @@ N/A,ECO,32.63,1033719253,Transportation,Marine Shipping
 8,BBDC,9.45,1002333791,Finance,Investment Managers
 5,ATRC,20.69,1001030314,Health Technology,Medical Specialties
 10,WULF,4.21,1.61E+09,Technology Services,Data Processing Services
+10,IREN,8.3,1.56E+09,Technology Services,Data Processing Services
+8,WVE,12,1.33E+09,Health Technology,Biotechnology
+3,OKLO,16.54,2.02E+09,Producer Manufacturing,Industrial Machinery
